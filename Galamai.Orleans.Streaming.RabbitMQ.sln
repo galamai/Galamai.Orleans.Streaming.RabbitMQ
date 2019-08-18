@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galamai.Orleans.Streaming.RabbitMQ", "src\Galamai.Orleans.Streaming.RabbitMQ\Galamai.Orleans.Streaming.RabbitMQ.csproj", "{AFEE090E-213E-40B8-BD98-13D2BD45A17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEE090E-213E-40B8-BD98-13D2BD45A17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEE090E-213E-40B8-BD98-13D2BD45A17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEE090E-213E-40B8-BD98-13D2BD45A17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEE090E-213E-40B8-BD98-13D2BD45A17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F33E5F25-4EDF-492A-BAB6-E60F3823BE71}
+	EndGlobalSection
+EndGlobal
