@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Evgenij Galamai</Authors>
+    <Copyright>Evgenij Galamai</Copyright>
+    <PackageProjectUrl>https://github.com/galamai/Galamai.Orleans.Streaming.RabbitMQ</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/galamai/Galamai.Orleans.Streaming.RabbitMQ</RepositoryUrl>
+    <PackageTags>Orleans, RabbitMQ</PackageTags>
+    <Description>Orleans RabbitMQ stream rovider</Description>
   </PropertyGroup>
 
   <ItemGroup>
